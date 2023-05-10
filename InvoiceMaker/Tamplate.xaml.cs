@@ -10,22 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace InvoiceMaker
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Tamplate.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Tamplate : Window
     {
-        public MainWindow()
+        public Tamplate()
         {
             InitializeComponent();
-            Tamplate template = new Tamplate();
-            template.Show();
-            this.Hide();
         }
     }
 }
