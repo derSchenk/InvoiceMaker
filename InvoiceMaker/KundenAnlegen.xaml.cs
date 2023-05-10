@@ -10,22 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace InvoiceMaker
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for KundenAnlegen.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class KundenAnlegen : Window
     {
-        public MainWindow()
+        public KundenAnlegen()
         {
             InitializeComponent();
-            KundenAnlegen kundenanlegen = new KundenAnlegen();
-            kundenanlegen.Show();
-            this.Hide();
         }
     }
 }

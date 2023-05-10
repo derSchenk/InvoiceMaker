@@ -16,3 +16,5 @@ C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.csp
 C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.csproj.CoreCompileInputs.cache
 C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.exe
 C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\InvoiceMaker.pdb
+C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\KundenAnlegen.g.cs
+C:\Users\cgehl\source\repos\InvoiceMaker\InvoiceMaker\obj\Debug\KundenAnlegen.baml
